@@ -27,5 +27,4 @@ def lecture05_01():
                 #implement me
 
     # 書き込み処理
-    # implement me
 
